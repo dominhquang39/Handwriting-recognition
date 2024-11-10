@@ -1,2 +1,2 @@
 # Handwriting-recognition
-My simple implement program to recognize handwriting alphabet and digit
+My group project to recognition and transcribe hand-written text into machine-readble text
